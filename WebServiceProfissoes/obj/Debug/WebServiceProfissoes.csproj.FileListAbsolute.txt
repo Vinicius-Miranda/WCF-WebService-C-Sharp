@@ -1,0 +1,6 @@
+c:\users\vinicius\documents\visual studio 2015\Projects\WebServiceProfissoes\WebServiceProfissoes\bin\Debug\WebServiceProfissoes.dll.config
+c:\users\vinicius\documents\visual studio 2015\Projects\WebServiceProfissoes\WebServiceProfissoes\bin\Debug\WebServiceProfissoes.dll
+c:\users\vinicius\documents\visual studio 2015\Projects\WebServiceProfissoes\WebServiceProfissoes\bin\Debug\WebServiceProfissoes.pdb
+c:\users\vinicius\documents\visual studio 2015\Projects\WebServiceProfissoes\WebServiceProfissoes\obj\Debug\WebServiceProfissoes.csprojResolveAssemblyReference.cache
+c:\users\vinicius\documents\visual studio 2015\Projects\WebServiceProfissoes\WebServiceProfissoes\obj\Debug\WebServiceProfissoes.dll
+c:\users\vinicius\documents\visual studio 2015\Projects\WebServiceProfissoes\WebServiceProfissoes\obj\Debug\WebServiceProfissoes.pdb
